@@ -1,50 +1,49 @@
                                      .container{
-                                     	         margin-top: 40px;
-                                     }
-
+                                     	        margin-top: 40px;
+}
                                      .fonts{                 
-			          	                          float: right;
-                        										background-color:#7d2e2c;
-                        										position: absolute;
-                        										width:91%;
-                        										height: 50px;
-                        										margin-top: 5px;
-                        										margin-right: 200px;
-                        										margin-left: 45px;
+			          	    float: right;
+                        		    background-color:#7d2e2c;
+                        		    position: absolute;
+                        		    width:91%;
+                        		    height: 50px;
+                        		    margin-top: 5px;
+                        		    margin-right: 200px;
+                        		    margin-left: 45px;
 }
-                                       .body h4{
-                            										 font-size: 15px;
-                            										font-weight:bold;
-                            									    position: relative;
-                            									    margin-top:15px;
+                                    .body h4{
+                            		     font-size: 15px;
+                            		     font-weight:bold;
+                            		     position: relative;
+                            		     margin-top:15px;
 }
-                            					         h4{
-                            					            text-align: center;
-                            								margin-right:100px;
-                            								margin-top: 60px;
+                            	      h4{
+                            		  text-align: center;
+                            		  margin-right:100px;
+                            		  margin-top: 60px;
 }
                                      .enter{    
-                                           display: flex;
-	                                        flex-direction: column;
-    	                                    width:92%;
-                      										border: 5px ;
-                      										height: 600px;
-                      										margin-left: 20px;
-                      										margin-right: 50px;
-                      										margin-left: 50px;
-                      										margin-top: -5px;
-                      										background-color:#8080803b;
-                      										background-size: cover;
-    }
+                                             display: flex;
+	                                     flex-direction: column;
+    	                                     width:92%;
+                      			     border: 5px ;
+                      			     height: 600px;
+                      			     margin-left: 20px;
+                      			     margin-right: 50px;
+                      			     margin-left: 50px;
+                      			     margin-top: -5px;
+                      			     background-color:#8080803b;
+                      			     background-size: cover;
+}
  
-                  										 article{
-                  										 	display: flex;
-                  										 	border:none;
-                  										 	margin-top:45px;
-                  										 	width: 100%;
-                  										 	height: 300px;
- }       
-                                         code{
+                  		article{
+                  			 display: flex;
+                  			 border:none;
+                  			 margin-top:45px;
+                  			 width: 100%;
+                  			 height: 300px;
+}       
+                                 code{
                                       background-color:#7d2e2c;
                                       color:white;
                                       font-size:13px;
@@ -55,49 +54,48 @@
                                      	font-family: sans-serif;
                                      	padding: 2px;
                                      	margin-left: 10px;
-
-                                     }
+}
                                    
 									 
-							     #style{ 
-										width:15px; 
-										float: right;
-										margin-right:200px;
-										margin-top:-35px;
-										border:none;
-									    border-radius: none;
-										background-color:#7d2e2c;
-										background-size: contain;
+					     #style{ 
+						    width:15px; 
+						    float: right;
+						    margin-right:200px;
+						    margin-top:-35px;
+						    border:none;
+						    border-radius: none;
+						    background-color:#7d2e2c;
+						    background-size: contain;
 }
-							 .linkedin{
-										width:15px; 
-									   float: right;
-									   border:none;
-									  margin-top: -42px;
-									  margin-right: 100px;
-									  color: #7d2e2c;
+				   .linkedin{
+					      width:15px; 
+					      float: right;
+					      border:none;
+					      margin-top: -42px;
+					      margin-right: 100px;
+					      color: #7d2e2c;
 }
-							    .instagram{ 
-										    width: 25px; 
-											float: right;
-										    margin-top:-40px;
-										    background-color: #7d2e2c;
-											border: none;
-										     margin-right: 30px;
+				.instagram{ 
+					    width: 25px; 
+					    float: right;
+					    margin-top:-40px;
+					    background-color: #7d2e2c;
+					    border: none;
+					    margin-right: 30px;
 }
-                                        .tweeter{
-									  width: 25px;
-									  position:relative; 
-									 float:right;
-									 border:none;
-									 margin-top:-45px;
-									 margin-right: 140px;
-									 color: green;
+                                  .tweeter{
+					    width: 25px;
+					    position:relative; 
+					    float:right;
+					    border:none;
+					    margin-top:-45px;
+					    margin-right: 140px;
+					   color: green;
 }
                                   .row{
- 	                                    border: 5px solid #7d2e2c;
- 	                                    width:89%;
- 	                                    height: 35px;
+ 	                                border: 5px solid #7d2e2c;
+ 	                                width:89%;
+ 	                                height: 35px;
                                         color: #c32929bf;
                                         background:#7d2e2c;
                                         padding-right: 5px;
@@ -143,29 +141,29 @@
                             	            padding: 1%;
 } 
                         
-							#class{
-								color: black;
-								   margin-left: 12px;
-								   font-size: 11px;
-								   font-family: sans-serif;
-								   letter-spacing: 1px;
-								   word-spacing: 1px;
-								   padding: 1px;
-								   width: 14%;
-								   margin-top: 15px;
+				     #class{
+					     color: black;
+					     margin-left: 12px;
+					     font-size: 11px;
+					     font-family: sans-serif;
+					     letter-spacing: 1px;
+					     word-spacing: 1px;
+					     padding: 1px;
+					      width: 14%;
+					     margin-top: 15px;
 }
-							#me{
-								   color: black;
-								   margin-left: 15px;
-								   font-size: 11px;
-								   font-family: sans-serif;
-								   letter-spacing: 1px;
-								   word-spacing: 1px;
-								   padding: 1px;
-								   width: 14%;
+				     #me{
+					  color: black;
+					  margin-left: 15px;
+					  font-size: 11px;
+					  font-family: sans-serif;
+					  letter-spacing: 1px;
+					  word-spacing: 1px;
+					  padding: 1px;
+					  width: 14%;
 
 }
-                           .clear{
+                               .clear{
                            	      color:blue;
                            	      display: inline-block;
                            	      margin-left: 449px;
@@ -175,11 +173,11 @@
                            	      letter-spacing: 5px;
                            	      padding: 1px;
 }
-								.small{
-									    margin-top: 450px;
-									    position: absolute;
+			 .small{
+				 margin-top: 450px;
+				position: absolute;
 } 
-                              .small h4+p{
+                               .small h4+p{
                               	            margin-left: 450px;
                               	            display: inline-block;
                               	            margin-top:-5px;
